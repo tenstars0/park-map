@@ -1,0 +1,6 @@
+Warning 6: Normalized/laundered field name: 'Shape__Area' to 'Shape__Are'
+Warning 6: Normalized/laundered field name: 'Shape__Length' to 'Shape__Len'
+Warning 6: Normalized/laundered field name: 'Shape__Area' to 'Shape__Are'
+Warning 6: Normalized/laundered field name: 'Shape__Length' to 'Shape__Len'
+Warning 6: Normalized/laundered field name: 'Shape__Area' to 'Shape__Are'
+Warning 6: Normalized/laundered field name: 'Shape__Length' to 'Shape__Len'
