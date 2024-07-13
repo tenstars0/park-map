@@ -13,3 +13,5 @@ Directory: https://maps.mecklenburgcountync.gov/agsadaptor/rest/services/park<br
 Example query:
 
 `esri2geojson "https://maps.mecklenburgcountync.gov/agsadaptor/rest/services/park/NaturePreserveTrails/FeatureServer/0" file.geojson`
+
+www.arcgis.com/home/group.html?id- 24838c2d95e14dd18c25e9bad55a7f828.content=all
